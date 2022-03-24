@@ -2,7 +2,7 @@
 title: Acceso a Datos
 author: Miguel Ángel Tomás
 date: 2022-03-23
-category: Acceso a Datos
+category: AccesoDatos
 layout: post
 ---
 

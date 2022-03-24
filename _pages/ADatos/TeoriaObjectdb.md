@@ -1,5 +1,10 @@
-# 	Bases de datos orientadas a objetos. ObjectDB
-
+---
+title: Bases de Datos Orientadas a Objetos. ObjectDB
+author: Miguel Ángel Tomás
+date: 2022-03-23
+category: AccesoDatos
+layout: post
+---
 ## Resultados de Aprendizaje
 
 RA 4. Desarrolla aplicaciones que gestionan la información almacenada en bases de datos objeto relacionales y orientadas a objetos valorando sus características y utilizando los mecanismos de acceso incorporados.
