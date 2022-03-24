@@ -11,6 +11,6 @@ layout: post
 1. Manejo de Ficheros
 2. Manejo de Conectores
 3. Herramientas de Mapeo Objeto-Relacional (ORM)
-4. [Bases de Datos Objeto-Relacionales y OO](ADatos/TeoriaObjectdb)
+4. [Bases de Datos Objeto-Relacionales y OO](ADatos/TeoriaObjectdb.html)
 5. Bases de Datos NoSQL
 6. Programación de Componentes de Acceso a Datos
