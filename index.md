@@ -49,7 +49,7 @@ Se propone la siguiente estructura de los contenidos para el desarrollo de los m
 
 Estos materiales están sujetos a la licencia Apache License, Version 2.0.
 
-Copyright 2019 Tao He.
+Web basada en Jekyll con tema Jekyll-gitbook de Tao He.
 
 [1]: https://pages.github.com
 [2]: https://pages.github.com/themes

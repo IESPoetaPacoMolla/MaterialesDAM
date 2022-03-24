@@ -3,7 +3,6 @@ title: Bases de Datos Orientadas a Objetos. ObjectDB
 author: Miguel Ángel Tomás
 date: 2022-03-23
 category: AccesoDatos
-layout: post
 ---
 ## Resultados de Aprendizaje
 
