@@ -70,7 +70,7 @@ Donde, en el fichero pom.xml añadiremos la siguiente dependencia.
 
 Cabe destacar que en la página oficial de ObjectDB existen una serie de herramientas complementarias que pueden ser de ayuda durante el desarrollo de nuestros proyectos, como por ejemplo el explorer.jar que nos permite explorar el contenido de la base de datos y probar nuestras consultas.
 
-![image-20201130165846116](/Volumes/GoogleDrive/Mi unidad/Paco Molla 2020-2021/Clases/Acceso a Datos/Temario/Tema4. Bases de datos OO. Objectdb/Imagenes/imagenExplorador.png)
+![image-20201130165846116](./Imagenes/imagenExplorador.png)
 
 ### Definición de Entidades en ObjectDB
 
