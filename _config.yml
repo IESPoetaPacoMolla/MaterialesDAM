@@ -9,8 +9,8 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://iespoetapacomolla.github.io/MaterialesDAM/'
-baseurl:          '/'
+url:              'http://localhost:4000'
+baseurl:          ''
 rss:              RSS
 
 toc:

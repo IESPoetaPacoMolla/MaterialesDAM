@@ -3,6 +3,7 @@ title: Bases de Datos Orientadas a Objetos. ObjectDB
 author: Miguel Ángel Tomás
 date: 2022-03-23
 category: AccesoDatos
+layout: tema
 ---
 ## Resultados de Aprendizaje
 
@@ -69,7 +70,7 @@ Donde, en el fichero pom.xml añadiremos la siguiente dependencia.
 
 Cabe destacar que en la página oficial de ObjectDB existen una serie de herramientas complementarias que pueden ser de ayuda durante el desarrollo de nuestros proyectos, como por ejemplo el explorer.jar que nos permite explorar el contenido de la base de datos y probar nuestras consultas.
 
-![image-20201130165846116](./Imagenes/imagenExplorador.png)
+![image-20201130165846116](Imagenes/imagenExplorador.png)
 
 ### Definición de Entidades en ObjectDB
 

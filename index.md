@@ -11,7 +11,7 @@ Repositorio de recopilación de materiales del Ciclo Formativo de Grado Superior
 * Programación.
 * Lenguajes de marcas y sistemas de gestión de información.
 * Entornos de desarrollo.
-* [Acceso a datos.](_posts/AccesoDatos.md)
+* [Acceso a datos.]({{ site.baseurl }}{% link _pages/AccesoDatos.md %})
 * Desarrollo de interfaces.
 * Programación multimedia y dispositivos móviles.
 * Programación de servicios y procesos.
@@ -50,10 +50,3 @@ Se propone la siguiente estructura de los contenidos para el desarrollo de los m
 Estos materiales están sujetos a la licencia Apache License, Version 2.0.
 
 Web basada en Jekyll con tema Jekyll-gitbook de Tao He.
-
-[1]: https://pages.github.com
-[2]: https://pages.github.com/themes
-[3]: https://github.com/sighingnow/jekyll-gitbook/fork
-[4]: https://github.com/allejo/jekyll-toc
-[5]: https://github.com/gitbook-plugins/gitbook-plugin-search-pro
-[6]: https://github.com/rouge-ruby/rouge/tree/master/lib/rouge/themes
